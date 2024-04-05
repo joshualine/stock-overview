@@ -1,0 +1,110 @@
+{
+  "stockMarket": [
+    {
+      "id": "1",
+      "ngxAmount": "1,234,566",
+      "ngxPercent": -20,
+      "ngxYtd": "554",
+      "marketCapAmount": "2345",
+      "marketCapPercent": "-34.44",
+      "marketCapYtd": "4544",
+      "volumeAmount": "2345",
+      "volumePercent": "87",
+      "valueAmount": "2345",
+      "valuePercent": "67",
+      "dealsAmount": "2345",
+      "dealsPercent": "56.64"
+    },
+    {
+      "id": "2",
+      "ngxAmount": "234,566",
+      "ngxPercent": 20,
+      "ngxYtd": "554",
+      "marketCapAmount": "45",
+      "marketCapPercent": "34.44",
+      "marketCapYtd": "453333",
+      "volumeAmount": "2345",
+      "volumePercent": "87",
+      "valueAmount": "2345",
+      "valuePercent": "67",
+      "dealsAmount": "2345",
+      "dealsPercent": "56.64"
+    },
+    {
+      "id": "3",
+      "ngxAmount": "234,566",
+      "ngxPercent": 20,
+      "ngxYtd": "554",
+      "marketCapAmount": "333345",
+      "marketCapPercent": "-23.44",
+      "marketCapYtd": "4333",
+      "volumeAmount": "2345",
+      "volumePercent": "87",
+      "valueAmount": "2345",
+      "valuePercent": "67",
+      "dealsAmount": "2345",
+      "dealsPercent": "56.64"
+    },
+    {
+      "id": "4",
+      "ngxAmount": "2,909,000",
+      "ngxPercent": -20,
+      "ngxYtd": "554",
+      "marketCapAmount": "59.168B",
+      "marketCapPercent": "-6.44",
+      "marketCapYtd": "4333",
+      "volumeAmount": "237745",
+      "volumePercent": "87",
+      "valueAmount": "2345",
+      "valuePercent": "-67",
+      "dealsAmount": "234",
+      "dealsPercent": "-56"
+    },
+    {
+      "id": "a7ae",
+      "ngxAmount": "18,888,888",
+      "ngxPercent": "20",
+      "ngxYtd": "654",
+      "marketCapAmount": "59.168T",
+      "marketCapPercent": "-4.34",
+      "marketCapYtd": "654",
+      "volumeAmount": "66,555,443",
+      "volumePercent": "-5.65",
+      "valueAmount": "5,443",
+      "valuePercent": "-87",
+      "dealsAmount": "554,663",
+      "dealsPercent": "23"
+    }
+  ],
+  "user": [
+    {
+      "id": "admin",
+      "name": "Nihira",
+      "password": "Stock@123",
+      "email": "it@capitalbancorpgroup.com"
+    },
+    {
+      "id": "researchadmin",
+      "name": "Fullname",
+      "password": "Research@1324",
+      "email": "email@email.com"
+    }
+  ],
+  "stockRecommendation": [],
+  "dailyPricelist": [
+    {
+      "id": "3d97",
+      "reportType": "",
+      "date": "2024-03-28",
+      "reportLink": "https://capitalbancorp.sharepoint.com/:x:/s/BSLResearchSite/EZxKlj_Z2bZGjTJHZdvVFlYBjiHdOq666XIqq-a3hxjQ6w?e=3Fgj5C"
+    }
+  ],
+  "dailyMarketSummary": [
+    {
+      "id": "bb60",
+      "reportType": "Market Summary",
+      "date": "2023-10-10",
+      "reportLink": "https://drive.google.com/file/d/1tl6JM1c3aoLUppxW9lSK9scCvke2Bm5P/view"
+    }
+  ]
+}
